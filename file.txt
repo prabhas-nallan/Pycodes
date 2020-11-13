@@ -1,0 +1,3 @@
+('jeksk', '110')
+('dkwkwk', '12')
+('Tarun', '19', 'Samsung Galaxy M30s')
